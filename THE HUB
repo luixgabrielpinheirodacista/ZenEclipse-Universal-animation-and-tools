@@ -1,0 +1,313 @@
+local OrionLib = loadstring(game:HttpGet("https://orrxl4-protector.com/api/raw?id=d33avck2"))()
+
+local Window = OrionLib:MakeWindow({Name = "ZenEclipse Hub Animation Gui/Universal", HidePremium = false, SaveConfig = true, ConfigFolder = "ZenUTest"})
+
+local Tab = Window:MakeTab({
+	Name = "r6 / r15 Animations (no fling/no hat)",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+	Name = "John Porki (R6)",
+	Callback = function()
+               loadstring(game:HttpGet('https://pastebin.com/raw/sB9Wwx9v'))()
+  	end    
+})
+
+Tab:AddButton({
+	Name = "Kick Fling (R15)",
+	Callback = function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/platinww/CrustyMain/refs/heads/main/universal/DropKick.lua"))()
+  	end    
+})
+
+Tab:AddButton({
+	Name = "Omni Man (R15)",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/giobolqv1/invincible-characters-animations-by-GioBolqv1-/refs/heads/main/universal.lua"))()
+  	end    
+})
+
+Tab:AddButton({
+	Name = "FE Faker (R15)",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/luixgabrielpinheirodacista/FAKEEL/refs/heads/main/wqqwedwq"))()
+  	end    
+})
+
+Tab:AddButton({
+	Name = "FE mini car (R15) ",
+	Callback = function()
+      		loadstring(game:HttpGet("https://pastefy.app/UqDEIOpO/raw"))()
+  	end    
+})
+
+Tab:AddButton({
+	Name = "FE drone (R15)",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/randomstring0/qwertys/refs/heads/main/qwerty16.lua"))()
+  	end    
+})
+
+Tab:AddButton({
+	Name = "FE shooter (R6)",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/luixgabrielpinheirodacista/FAKEEL/refs/heads/main/HUTOE"))()
+  	end    
+})
+
+Tab:AddButton({
+	Name = "FE Seraphic Blade (R6)",
+	Callback = function()
+            loadstring(game:HttpGet("https://pastefy.app/59mJGQGe/raw"))() --Anim
+  	end    
+})
+
+Tab:AddButton({
+	Name = "FE SCP 096 (R6)",
+	Callback = function()
+            loadstring(game:HttpGet("https://pastefy.app/YsJgITXR/raw"))()
+  	end    
+})
+
+local Section = Tab:AddSection({
+	Name = "Just A Baseplate FE animations"
+})
+
+Tab:AddButton({
+	Name = "FE Goner",
+	Callback = function()
+      		local TextChatService = game:GetService("TextChatService")
+local function forceChat(message)
+   local channel = TextChatService.TextChannels.RBXGeneral
+   channel:SendAsync(message)
+end
+-- Example usage
+forceChat("-ch")
+
+Wait(2)
+
+      		local TextChatService = game:GetService("TextChatService")
+local function forceChat(message)
+   local channel = TextChatService.TextChannels.RBXGeneral
+   channel:SendAsync(message)
+end
+-- Example usage
+forceChat("-gh 17772174303 17770317484 17822749561 17822722698 17771175724 138364679836274 106249329428811 129462518582032 131385506535381 85392395166623")
+
+Wait(2)
+
+      		local TextChatService = game:GetService("TextChatService")
+local function forceChat(message)
+   local channel = TextChatService.TextChannels.RBXGeneral
+   channel:SendAsync(message)
+end
+-- Example usage
+forceChat("-pd")
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/Ata/main/deltakeyboardcrack.txt", true))()
+
+DisableFlingHealthBar = false
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GenesisFE/Genesis/main/Obfuscations/Goner"))()
+end
+})
+
+Tab:AddButton({
+	Name = "FE Neptunian V",
+	Callback = function()
+      		local TextChatService = game:GetService("TextChatService")
+local function forceChat(message)
+   local channel = TextChatService.TextChannels.RBXGeneral
+   channel:SendAsync(message)
+end
+-- Example usage
+forceChat("-ch")
+
+Wait(2)
+
+      		local TextChatService = game:GetService("TextChatService")
+local function forceChat(message)
+   local channel = TextChatService.TextChannels.RBXGeneral
+   channel:SendAsync(message)
+end
+-- Example usage
+forceChat("-gh 82942681251131 140395948277978 138364679836274 102599402682100 90960046381276 11792662877 5268710380")
+
+Wait(2)
+
+      		local TextChatService = game:GetService("TextChatService")
+local function forceChat(message)
+   local channel = TextChatService.TextChannels.RBXGeneral
+   channel:SendAsync(message)
+end
+-- Example usage
+forceChat("-pd")
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/Ata/main/deltakeyboardcrack.txt", true))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GenesisFE/Genesis/main/Obfuscations/Neptunian%20V"))()
+end
+})
+
+Tab:AddButton({
+	Name = "FE sin dragon",
+	Callback = function()
+      		local TextChatService = game:GetService("TextChatService")
+local function forceChat(message)
+   local channel = TextChatService.TextChannels.RBXGeneral
+   channel:SendAsync(message)
+end
+-- Example usage
+forceChat("-ch")
+
+Wait(2)
+
+      		local TextChatService = game:GetService("TextChatService")
+local function forceChat(message)
+   local channel = TextChatService.TextChannels.RBXGeneral
+   channel:SendAsync(message)
+end
+-- Example usage
+forceChat("-gh 113048125789248 111793953309477 6909084751 5354918926 16755106041 150381051 4504231783 3398308134 3033908130 3409612660 3033910400 17323578884")
+
+Wait(2)
+
+      		local TextChatService = game:GetService("TextChatService")
+local function forceChat(message)
+   local channel = TextChatService.TextChannels.RBXGeneral
+   channel:SendAsync(message)
+end
+-- Example usage
+forceChat("-pd")
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/Ata/main/deltakeyboardcrack.txt", true))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GenesisFE/Genesis/refs/heads/main/Loadstrings/Sin%20Dragon"))()
+end
+})
+
+Tab:AddButton({
+	Name = "FE ban hammer",
+	Callback = function()
+      		local TextChatService = game:GetService("TextChatService")
+local function forceChat(message)
+   local channel = TextChatService.TextChannels.RBXGeneral
+   channel:SendAsync(message)
+end
+-- Example usage
+forceChat("-ch")
+
+Wait(2)
+
+      		local TextChatService = game:GetService("TextChatService")
+local function forceChat(message)
+   local channel = TextChatService.TextChannels.RBXGeneral
+   channel:SendAsync(message)
+end
+-- Example usage
+forceChat("-gh 15427288323 82942681251131 140395948277978 138364679836274 102599402682100 90960046381276 11792662877")
+
+Wait(2)
+
+      		local TextChatService = game:GetService("TextChatService")
+local function forceChat(message)
+   local channel = TextChatService.TextChannels.RBXGeneral
+   channel:SendAsync(message)
+end
+-- Example usage
+forceChat("-pd")
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/Ata/main/deltakeyboardcrack.txt", true))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GenesisFE/Genesis/main/Obfuscations/Ban%20Hammer"))()
+end
+})
+
+Tab:AddButton({
+	Name = "FE fake vr",
+	Callback = function()
+      		local TextChatService = game:GetService("TextChatService")
+local function forceChat(message)
+   local channel = TextChatService.TextChannels.RBXGeneral
+   channel:SendAsync(message)
+end
+-- Example usage
+forceChat("-ch")
+
+Wait(2)
+
+      		local TextChatService = game:GetService("TextChatService")
+local function forceChat(message)
+   local channel = TextChatService.TextChannels.RBXGeneral
+   channel:SendAsync(message)
+end
+-- Example usage
+forceChat("-gh 102599402682100 90960046381276 140395948277978 90960046381276 13058406993")
+
+Wait(2)
+
+      		local TextChatService = game:GetService("TextChatService")
+local function forceChat(message)
+   local channel = TextChatService.TextChannels.RBXGeneral
+   channel:SendAsync(message)
+end
+-- Example usage
+forceChat("-pd")
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/randomstring0/Qwerty/refs/heads/main/qwerty45.lua"))()
+end
+})
+
+Tab:AddButton({
+	Name = "fire extinguisher",
+	Callback = function()
+      		loadstring(game:HttpGet("https://pastefy.app/pF8T65Dx/raw"))()
+  	end    
+})
+
+Tab:AddButton({
+	Name = "FE terraprisma",
+	Callback = function()
+      		      		local TextChatService = game:GetService("TextChatService")
+local function forceChat(message)
+   local channel = TextChatService.TextChannels.RBXGeneral
+   channel:SendAsync(message)
+end
+-- Example usage
+forceChat("r6")
+
+wait(2)
+      		      		local TextChatService = game:GetService("TextChatService")
+local function forceChat(message)
+   local channel = TextChatService.TextChannels.RBXGeneral
+   channel:SendAsync(message)
+end
+-- Example usage
+forceChat("-gh 75133535004735")
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/randomstring0/Qwerty/refs/heads/main/qwerty63.lua"))() 
+  	end    
+})
+
+Tab:AddButton({
+	Name = "FE lolita",
+	Callback = function()
+      		loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Fe-Lolita-glitcher-pls-check-desc-211728"))()
+  	end    
+})
+
+local Tab = Window:MakeTab({
+	Name = "Tools (soon)",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Tab = Window:MakeTab({
+	Name = "Misc (soon)",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+OrionLib:Init()
